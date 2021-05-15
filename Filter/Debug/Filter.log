@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\roger\Desktop\Harvard CS 50 2021\Filter\Filter\main.cpp(4,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\roger\Desktop\Harvard CS 50 2021\Filter\Filter\main.cpp(61,14): warning C4309: 'initializing': truncation of constant value
+  Filter.vcxproj -> C:\Users\roger\Desktop\Harvard CS 50 2021\Filter\Debug\Filter.exe
